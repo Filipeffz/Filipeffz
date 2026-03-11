@@ -13,7 +13,7 @@ Sou estudante de Engenharia de Software, motivado pelo interesse em criar soluç
 align= "left"
 alt= "PYTHON"
 title="PYTHON"
-width="30px"
+width="40px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -22,7 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 align= "left"
 alt= "MYSQL"
 title="SQL"
-width="30px"
+width="40px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
@@ -30,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 align= "left"
 alt= "SQLITE"
 title="SQLITE"
-width="30px"
+width="40px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 align= "left"
 alt= "GITHUB"
 title="github"
-width="30px"
+width="40px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
@@ -55,7 +55,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 align= "left"
 alt= "GIT"
 title="git"
-width="30px"
+width="40px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -63,7 +63,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 align= "left"
 alt= "VSCODE"
 title="VSCODE"
-width="30px"
+width="40px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 

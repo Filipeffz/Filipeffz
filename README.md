@@ -11,9 +11,25 @@ Sou estudante de Engenharia de Software, motivado pelo interesse em criar soluç
 
 <img 
 align= "left"
+alt= "HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img 
+align= "left"
+alt= "CSS"
+title="CSS"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img 
+align= "left"
 alt= "PYTHON"
 title="PYTHON"
-width="40px"
+width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -22,7 +38,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 align= "left"
 alt= "MYSQL"
 title="SQL"
-width="40px"
+width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
@@ -30,7 +46,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 align= "left"
 alt= "SQLITE"
 title="SQLITE"
-width="40px"
+width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
@@ -47,7 +63,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 align= "left"
 alt= "GITHUB"
 title="github"
-width="40px"
+width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
@@ -55,7 +71,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 align= "left"
 alt= "GIT"
 title="git"
-width="40px"
+width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -63,7 +79,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 align= "left"
 alt= "VSCODE"
 title="VSCODE"
-width="40px"
+width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
@@ -77,3 +93,4 @@ align= "left"
 height="200px"
 style="padding-right: 10px"
 src="https://github-readme-stats.vercel.app/api?username=filipeffz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+

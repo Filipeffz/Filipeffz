@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Sou estudante de Engenharia de Software, motivado pelo interesse em criar soluções tecnológicas que realmente façam a diferença. Tenho buscado desenvolver uma base sólida em lógica de programação, fundamentos da computação e boas práticas de desenvolvimento, sempre com curiosidade e disposição para aprender.
-
+Sou estudante de Engenharia de Software e tenho muita vontade de criar soluções tecnológicas que realmente façam a diferença na vida das pessoas. Estou sempre buscando aprender mais, principalmente em lógica de programação, fundamentos da computação e boas práticas de desenvolvimento. Tenho curiosidade, gosto de entender como as coisas funcionam por trás e estou sempre disposto a evoluir e encarar novos desafios.
 
 ---
 

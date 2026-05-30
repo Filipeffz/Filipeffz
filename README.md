@@ -35,8 +35,6 @@ width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
-
-
 <br/>
 <br/>
 
@@ -50,7 +48,8 @@ alt= "GITHUB"
 title="github"
 width="30px"
 style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+img src="https://img.icons8.com/ios-filled/100/FFFFFF/github.png" width="50" height="50" alt="GitHub"/>
+
 
 <img
 align= "left"

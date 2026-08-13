@@ -48,7 +48,7 @@ alt= "GITHUB"
 title="github"
 width="30px"
 style="padding-right: 10px"
-img src="https://img.icons8.com/ios-filled/100/FFFFFF/github.png" width="50" height="50" alt="GitHub"/>
+img src="https://github.com/user-attachments/assets/9b5f4020-71fe-4814-8d5f-007ba8db7368"/>
 
 
 <img
@@ -58,6 +58,8 @@ title="git"
 width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+
 
 <img 
 align= "left"
@@ -86,10 +88,13 @@ src="https://github-readme-stats.vercel.app/api?username=filipeffz&show_icons=tr
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Filipe+Alves+:%29)](https://git.io/typing-svg) -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Filipeffz&theme=cobalt" alt="Filipeffz" />
-</p>
+<div align="center">
 
+![Estatísticas do GitHub](https://github-readme-stats-silk-theta-23.vercel.app/api?username=filipeffz&show_icons=true&theme=tokyonight)
+
+![Linguagens mais usadas](https://github-readme-stats-silk-theta-23.vercel.app/api/top-langs/?username=filipeffz&layout=compact&theme=tokyonight)
+
+</div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Filipeffz&bg_color=000000&color=7308EF&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

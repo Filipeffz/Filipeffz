@@ -90,10 +90,9 @@ src="https://github-readme-stats.vercel.app/api?username=filipeffz&show_icons=tr
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats-silk-theta-23.vercel.app/api?username=filipeffz&show_icons=true&theme=tokyonight)
-
 ![Linguagens mais usadas](https://github-readme-stats-silk-theta-23.vercel.app/api/top-langs/?username=filipeffz&layout=compact&theme=tokyonight)
 
+![Estatísticas do GitHub](https://github-readme-stats-silk-theta-23.vercel.app/api?username=filipeffz&show_icons=true&theme=tokyonight)
 </div>
 
 

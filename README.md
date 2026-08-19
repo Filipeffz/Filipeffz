@@ -8,7 +8,22 @@ Sou estudante de Engenharia de Software e tenho muita vontade de criar soluçõe
 
 ### 🤖 Linguagens e Tecnologias
 
-
+<img 
+align= "left"
+alt= "C"
+title="C"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
+<img 
+align= "left"
+alt= "JAVA"
+title="JAVA"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+ 
 
 <img 
 align= "left"
@@ -38,9 +53,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 <br/>
 <br/>
 
-### ⚙️ Ferramentas
+### ⚙️ Ferramentas 
 
-
+<img 
+align= "left"
+alt= "INTELLIJ"
+title="intellij"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
+          
+<img 
+align= "left"
+alt= "INTELLIJ"
+title="intellij"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+          
 
 <img 
 align= "left"

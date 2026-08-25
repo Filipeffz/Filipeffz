@@ -8,13 +8,6 @@ Sou estudante de Engenharia de Software e tenho muita vontade de criar soluçõe
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-align= "left"
-alt= "C"
-title="C"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
           
 <img 
 align= "left"
@@ -23,7 +16,6 @@ title="JAVA"
 width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
- 
 
 <img 
 align= "left"
@@ -32,6 +24,14 @@ title="PYTHON"
 width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img 
+align= "left"
+alt= "C"
+title="C"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 
 <img 
@@ -55,14 +55,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 
 ### ⚙️ Ferramentas 
 
-<img 
-align= "left"
-alt= "INTELLIJ"
-title="intellij"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
-          
+
 <img 
 align= "left"
 alt= "INTELLIJ"
@@ -70,6 +63,22 @@ title="intellij"
 width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
+<img 
+align= "left"
+alt= "VSCODE"
+title="VSCODE"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+<img 
+align= "left"
+alt= "Clion"
+title="Clion"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
           
 
 <img 
@@ -91,13 +100,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 
 
-<img 
-align= "left"
-alt= "VSCODE"
-title="VSCODE"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
 
 <br/>
 <br/>

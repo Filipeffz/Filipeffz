@@ -113,27 +113,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <div align="center">
         
 
-![Top Languages](https://github-readme-stats-silk-theta-23.vercel.app/api/top-langs?username=Filipeffz&layout=compact&langs_count=10&theme=dark&v=3) 
+![Top Languages](https://github-readme-stats-silk-theta-23.vercel.app/api/top-langs?username=Filipeffz&layout=compact&langs_count=10&theme=tokyonight&v=3) 
 
-![GitHub Stats](https://github-readme-stats-silk-theta-23.vercel.app/api?username=Filipeffz&show_icons=true&commits_year=2026&theme=dark&v=3)
+![GitHub Stats](https://github-readme-stats-silk-theta-23.vercel.app/api?username=Filipeffz&show_icons=true&commits_year=2026&theme=tokyonight&v=3)
 
-<!--
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-silk-theta-23.vercel.app/api?username=Filipeffz&show_icons=true&commits_year=2026&theme=dark&v=3&height=200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-silk-theta-23.vercel.app/api/top-langs?username=Filipeffz&layout=compact&langs_count=10&theme=dark&v=3&height=200" />
-    </td>
-  </tr>
-</table>
-![Linguagens mais usadas](https://github-readme-stats-silk-theta-23.vercel.app/api/top-langs/?username=filipeffz&layout=compact&theme=tokyonight)
-
-<!--![Estatísticas do GitHub](https://github-readme-stats-silk-theta-23.vercel.app/api?username=filipeffz&show_icons=true&theme=tokyonight)
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Filipeffz&bg_color=000000&color=7308EF&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

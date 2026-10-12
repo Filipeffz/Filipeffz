@@ -67,11 +67,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
 
 <img 
 align= "left"
-alt= "VSCODE"
-title="VSCODE"
+alt= "PYCHARM"
+title="pycharm"
 width="30px"
 style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />           
+          
+
+
           
 <img 
 align= "left"
@@ -100,7 +103,13 @@ style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 
-
+<img 
+align= "left"
+alt= "VSCODE"
+title="VSCODE"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 
 <br/>

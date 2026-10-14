@@ -2,6 +2,8 @@
 
 **`Desenvolvedor Back-end`**
 
+I am a Software Engineering student with a strong desire to create technological solutions that truly make a difference in people's lives. I am constantly seeking to learn more, focusing particularly on programming logic, the fundamentals of computing, and software development best practices. I am naturally curious—I enjoy understanding how things work under the hood—and I am always eager to grow and take on new challenges.
+
 Sou estudante de Engenharia de Software e tenho muita vontade de criar soluções tecnológicas que realmente façam a diferença na vida das pessoas. Estou sempre buscando aprender mais, principalmente em lógica de programação, fundamentos da computação e boas práticas de desenvolvimento. Tenho curiosidade, gosto de entender como as coisas funcionam por trás e estou sempre disposto a evoluir e encarar novos desafios.
 
 ---
